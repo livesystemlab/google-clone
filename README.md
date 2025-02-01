@@ -2,10 +2,7 @@
 
 Este es un clon de la página principal de Google 🌟, desarrollado con **HTML5, CSS** y el uso de **iconos** para replicar la interfaz de usuario de la forma más fiel posible.
 
-## 📸 Captura de pantalla
 
-_Añade aquí una imagen del proyecto_  
-![Google Clone Preview](ruta-de-tu-imagen.png)
 
 ## 🚀 Tecnologías utilizadas
 
